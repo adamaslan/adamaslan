@@ -5,22 +5,44 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-      
-        <a
+<h1>
+      The World of Adam Aslan
+    </h1>
+    
+
+    <h2>     
+
+            <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://code.adamaslan.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-        The World of Adam Aslan
-ART - Code - FILM SOUND
+        
+ Code
         </a>
-      </header>
+-
+            <a
+          className="App-link"
+          href="https://art.adamaslan.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+        
+  ART
+        </a>
+-  
+        <a
+          className="App-link"
+          href="https://nycsoundguy.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+        
+  FILM SOUND
+        </a> 
+
+</h2>
     </div>
   );
 }
