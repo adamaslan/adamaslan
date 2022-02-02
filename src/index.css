@@ -1,5 +1,6 @@
 body {
   font-family: "utopia_seriff";
+  background-color: rgb(255, 255, 255);
 }
 
 code {
@@ -9,4 +10,26 @@ code {
 @font-face {
   font-family: "utopia_seriff";
   src: url("./fonts/utopia_seriff.ttf");
+}
+
+h1 {
+  font-size: 5rem;
+}
+h2 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+a:hover {
+  background-color: red;
+  color: white;
+}
+a {
+  color: rgb(0, 0, 0);
+}
+a:visited {
+  color: rgb(18, 85, 21);
 }
