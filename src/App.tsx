@@ -1,48 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-<h1>
-      The World of Adam Aslan
-    </h1>
-    
+      <h1>The World of Adam Aslan</h1>
 
-    <h2>     
-
-            <a
+      <h2>
+        <a
           className="App-link"
           href="https://code.adamaslan.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-        
- Code
+          Code
         </a>
--
-            <a
+        {" <-> "}
+        <a
           className="App-link"
           href="https://art.adamaslan.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-        
-  ART
+          ART
         </a>
--  
+        {" <-> "}
         <a
           className="App-link"
           href="https://nycsoundguy.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-        
-  FILM SOUND
-        </a> 
-
-</h2>
+          FILM SOUND
+        </a>
+      </h2>
     </div>
   );
 }
