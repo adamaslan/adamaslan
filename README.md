@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Things to Add
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+a typing type gif like the typing.com app
+an interface
+some sort of props
+maybe css styling
+maybe try to have like a pop up prompt?
+maybe like a chill castle esque thing
+
+## things to learn
+
+jest tests and the methods better
+typescript stuff - like interfaces -
+Soo make dee page as typed out as possible - strings
+string or number
+optional
 
 ## Available Scripts
 

@@ -2,6 +2,11 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
+interface dogyo {
+  a = string;
+   
+}
+
 function App() {
   return (
     <div className="App">
