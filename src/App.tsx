@@ -1,11 +1,7 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 
-interface dogyo {
-  a = string;
-   
-}
+let codey: string = `CODE`;
+let arty: string = `ART`;
 
 function App() {
   return (
@@ -19,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Code
+          {codey}
         </a>
         {" <-> "}
         <a
@@ -28,7 +24,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ART
+          {arty}
         </a>
         {" <-> "}
         <a
