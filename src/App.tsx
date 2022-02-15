@@ -1,5 +1,6 @@
 import "./App.css";
 
+//make an interface
 let codey: string = `CODE`;
 let arty: string = `ART`;
 
@@ -7,7 +8,6 @@ function App() {
   return (
     <div className="App">
       <h1>The World of Adam Aslan</h1>
-
       <h2>
         <a
           className="App-link"
@@ -36,6 +36,7 @@ function App() {
           FILM SOUND
         </a>
       </h2>
+      // add something here with tsx
     </div>
   );
 }
