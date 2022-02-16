@@ -1,13 +1,16 @@
 import "./App.css";
-
+interface Appz {
+  font?: string;
+}
 //make an interface
 let codey: string = `CODE`;
 let arty: string = `ART`;
 
-function App() {
+function App(config: Appz) {
+  let Head = `The World of Adam Aslan`;
   return (
     <div className="App">
-      <h1>The World of Adam Aslan</h1>
+      <h1>{Head}</h1>
       <h2>
         <a
           className="App-link"
