@@ -39,7 +39,9 @@ function App(config: Appz) {
           FILM SOUND
         </a>
       </h2>
-      Thanks for visiting :)
+      <br></br>
+      <br></br>
+      <h3>Thanks for visiting :) </h3>
     </div>
   );
 }
