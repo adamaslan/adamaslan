@@ -39,7 +39,7 @@ function App(config: Appz) {
           FILM SOUND
         </a>
       </h2>
-      // add something here with tsx
+      Thanks for visiting :)
     </div>
   );
 }
