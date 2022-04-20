@@ -1,4 +1,5 @@
 import "./App.css";
+import P5a from "./components/p5a";
 interface Appz {
   font?: string;
 }
@@ -42,6 +43,7 @@ function App(config: Appz) {
       <br></br>
       <br></br>
       <h2>Thanks for visiting :) </h2>
+      <P5a />
     </div>
   );
 }
