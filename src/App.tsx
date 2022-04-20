@@ -7,7 +7,7 @@ let codey: string = `CODE`;
 let arty: string = `ART`;
 
 function App(config: Appz) {
-  let Head = `The World of Adam Aslan`;
+  let Head = `The World of Adam Timur Aslan`;
   return (
     <div className="App">
       <h1>{Head}</h1>
@@ -41,7 +41,7 @@ function App(config: Appz) {
       </h2>
       <br></br>
       <br></br>
-      <h3>Thanks for visiting :) </h3>
+      <h2>Thanks for visiting :) </h2>
     </div>
   );
 }
